@@ -5,9 +5,9 @@
 }
 
 p {
-	color: aqua;
+	color: grey;
 }
 
 article {
-	border: 2px solid red;
+	border: 1px solid grey;
 }
