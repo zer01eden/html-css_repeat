@@ -11,3 +11,16 @@ p {
 article {
 	border: 1px solid grey;
 }
+
+article:hover {
+	box-shadow: -4px 2px 5px 0px gray;
+}
+
+.contact {
+	border: 0px;
+	background-color: aqua;
+}
+#radius15 {
+	border: 1px solid chartreuse;
+	border-radius: 15px;
+}
