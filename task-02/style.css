@@ -12,6 +12,10 @@ p {
 	text-shadow: 2px 2px green;
 }
 
+a[rel="nofollow"] {
+	background-color: red;
+}
+
 article {
 	border: 1px solid grey;
 }
