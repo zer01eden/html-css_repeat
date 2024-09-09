@@ -1,7 +1,11 @@
-* {
+/* * {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+} */
+
+#name-page {
+	font-size: 10px 
 }
 
 .material-symbols-outlined {
@@ -15,6 +19,7 @@ p {
 	font-size: 14px;
 	color: rgba(124, 211, 122, 0.9);
 }
+
 
 [title] {
 	text-shadow: 2px 2px green;
@@ -51,4 +56,19 @@ article:hover {
 #radius15 {
 	border: 1px solid chartreuse;
 	border-radius: 15px;
+}
+
+section, div {
+	box-sizing: border-box;
+	height: 400;
+	width: 300;
+}
+
+section {
+border: 3px solid pink;
+}
+
+div {
+	border: 3px solid greenyellow;
+	padding: 20px;
 }
