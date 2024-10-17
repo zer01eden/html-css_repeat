@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    /* flex-wrap: wrap; */
+}
+
+.item {
+    color:black;
+    min-height: 50%;
+    flex-basis: 33,333%;
+}
+
+.first {
+    background-color: beige;
+}
+
+.second {
+    background-color:bisque;
+}
+
+.third{
+    background-color:blanchedalmond;
+}
+
+.fourth {
+    background-color:antiquewhite;
+}
